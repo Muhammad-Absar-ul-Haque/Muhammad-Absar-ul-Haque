@@ -1,8 +1,6 @@
 # 🚀 Muhammad Absar ul Haque
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Muhammad-Absar-ul-Haque&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-
-## Backend Engineer | Node.js | Spring Boot | NestJS
+## Backend Engineer | Node.js | Spring Boot | NestJS | TypeScript
 
 > *Building scalable, high-performance server-side applications that power real-world solutions*
 
@@ -51,15 +49,16 @@ With hands-on experience across **freelance** and **production environments**, I
 
 ---
 
-### 🏗️ Featured Projects
+### 📌 Pinned Projects
 
-> *Check out my pinned repositories below for live demos and source code*
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **Inventory Management Backend** | Spring Boot, Java | Event-driven system with high-concurrency handling, optimistic locking, Redis caching, and WebSocket real-time updates |
+| **EduConnect Learning Platform API** | Node.js, JavaScript | RESTful API for course management, user authentication, and enrollment logic |
+| **Fullstack Chat App** | Node.js, Socket.IO, JavaScript | Real-time messaging with user connection tracking and chat history persistence |
+| **Prize Bond Backend** | Node.js, TypeScript | Type-safe backend API with robust error handling and data validation |
 
-- **Inventory Management System** — Event-driven architecture with Spring Boot, Kafka, Redis & WebSockets
-- **Restaurant App** — Full-stack with React, Express.js & MongoDB
-- **Online Learning Platform** — Express.js, MongoDB & Stripe integration
-- **Real-Time Chat App** — Node.js, Socket.IO, MongoDB & React
-- **Fast React Pizza** — React, Redux Toolkit & Tailwind CSS
+> 👆 **Check out the pinned repositories below for complete source code and documentation**
 
 ---
 
@@ -78,6 +77,7 @@ I'm actively looking for **backend developer roles** where I can contribute to s
 
 - 📍 Karachi, Pakistan
 - 💼 Open to remote & on-site opportunities
+- 💻 Active on GitHub with consistent contributions
 - 📧 Reach out via GitHub — I respond promptly
 
 ---
@@ -89,7 +89,8 @@ I'm actively looking for **backend developer roles** where I can contribute to s
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" />
