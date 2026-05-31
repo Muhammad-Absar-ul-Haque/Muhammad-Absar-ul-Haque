@@ -51,33 +51,24 @@ With hands-on experience across **freelance** and **production environments**, I
 
 ---
 
+### 🏗️ Featured Projects
+
+> *Check out my pinned repositories below for live demos and source code*
+
+- **Inventory Management System** — Event-driven architecture with Spring Boot, Kafka, Redis & WebSockets
+- **Restaurant App** — Full-stack with React, Express.js & MongoDB
+- **Online Learning Platform** — Express.js, MongoDB & Stripe integration
+- **Real-Time Chat App** — Node.js, Socket.IO, MongoDB & React
+- **Fast React Pizza** — React, Redux Toolkit & Tailwind CSS
+
+---
+
 ### 🎓 Education & Certifications
 
 - **Bachelor's in Computer Science** — University of Karachi (2022–2025)
 - Programming with JavaScript — *Coursera*
 - Introduction to Frontend Development — *Coursera*
 - The Ultimate React Course — *Udemy*
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Absar-ul-Haque&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Absar-ul-Haque&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Absar-ul-Haque&layout=compact&theme=radical&hide_border=true" width="45%" />
-</p>
-
----
-
-### 🔥 What I'm Currently Working On
-
-- Deepening expertise in **Spring Boot microservices** with event-driven architecture
-- Exploring **Kafka** for high-throughput distributed systems
-- Building production-ready **NestJS** applications
 
 ---
 
