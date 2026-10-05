@@ -1,97 +1,81 @@
-# 🚀 Muhammad Absar ul Haque
+# Hi, I'm Muhammad Absar ul Haque 👋
 
-## Backend Engineer | Node.js | Spring Boot | NestJS | TypeScript
+**Backend Engineer** · Node.js · TypeScript · NestJS · Spring Boot
 
-> *Building scalable, high-performance server-side applications that power real-world solutions*
+📍 Karachi, Pakistan · 🌍 **Open to remote roles / relocation with visa sponsorship**
 
----
-
-### 🎯 What I Bring to the Table
-
-With hands-on experience across **freelance** and **production environments**, I specialize in architecting robust backend systems that handle real traffic, complex business logic, and demanding performance requirements.
-
-- ✅ **Proven Track Record:** Developed RESTful APIs for multiple client projects and production applications at Code Avenue
-- ✅ **Full Backend Ownership:** Independently designed complete backend systems including admin panels from scratch
-- ✅ **Optimization Mindset:** Reduced query latency using Redis caching and database optimization techniques
-- ✅ **Security First:** Implemented JWT-based authentication with fine-grained access control
-- ✅ **Collaborative:** Worked directly with cross-functional teams and clients to deliver seamless frontend-backend integration
+[![Email](https://img.shields.io/badge/Email-absar.haque2003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:absar.haque2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-absar-320205267)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat&logo=netlify&logoColor=white)](https://mabsarportfolio.netlify.app/)
 
 ---
 
-### 🛠️ Technical Arsenal
+## About
 
-| Category | Technologies |
-|----------|--------------|
-| **Backend** | Node.js, Express.js, NestJS, Java, Spring Boot |
-| **Frontend** | HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind |
-| **Databases** | MongoDB, MySQL, PostgreSQL |
-| **ORM** | Prisma, Sequelize |
-| **Caching** | Redis |
-| **Tools** | Git, GitHub, REST APIs, WebSockets, Socket.IO |
-| **Soft Skills** | Critical Thinking, Problem Solving, Agile, Research & Analysis |
+I build production REST APIs with **Node.js, TypeScript, NestJS and Express.js** on **PostgreSQL, MySQL and MongoDB**, and also work in **Java / Spring Boot**. My focus is asynchronous and real-time backend design: Redis caching and pub/sub, BullMQ, Kafka and RabbitMQ queues, and horizontally scaled WebSockets, along with secure authentication (JWT with refresh-token rotation, RBAC).
+
+Currently a **Backend Developer at Code Avenue** (May 2025 – present), where I joined as an intern, moved to full-time after 3 months, and have built backend systems, including admin panels, for **5+ production applications**.
 
 ---
 
-### 💼 Professional Journey
+## Tech Stack
 
-#### **Code Avenue** — *Backend Developer* (May 2025 – Present)
-- Build and maintain production-grade RESTful APIs using Node.js & Express.js
-- Design scalable databases with MongoDB, MySQL, and PostgreSQL
-- Implement JWT authentication & authorization for secure endpoint access
-- Optimize backend performance through query efficiency & scalable API patterns
-- Lead backend development for multiple applications including complete admin panels
-
-#### **Freelance** — *Backend Developer* (June 2024 – May 2025)
-- Delivered RESTful APIs using Node.js, Express.js, and NestJS
-- Integrated third-party services including Stripe payments & email services
-- Improved performance via query optimization & Redis caching
-- Worked directly with clients from requirements to deployment
+| Area | Technologies |
+|------|--------------|
+| **Languages** | TypeScript, JavaScript, Java, SQL |
+| **Backend** | Node.js, NestJS, Express.js, Spring Boot, REST APIs, WebSockets (Socket.IO, STOMP), Swagger/OpenAPI |
+| **Databases & ORMs** | PostgreSQL, MySQL, MongoDB, Prisma, Sequelize |
+| **Messaging & Caching** | Redis, BullMQ, Kafka, RabbitMQ |
+| **DevOps & Cloud** | Docker, AWS, Git, GitHub |
+| **Auth & Integrations** | JWT, Passport.js, bcrypt, RBAC, Stripe, Twilio, Firebase Admin, Cloudinary, Nodemailer |
 
 ---
 
-### 📌 Pinned Projects
+## Featured Projects
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **Inventory Management Backend** | Spring Boot, Java | Event-driven system with high-concurrency handling, optimistic locking, Redis caching, and WebSocket real-time updates |
-| **EduConnect Learning Platform API** | Node.js, JavaScript | RESTful API for course management, user authentication, and enrollment logic |
-| **Fullstack Chat App** | Node.js, Socket.IO, JavaScript | Real-time messaging with user connection tracking and chat history persistence |
-| **Prize Bond Backend** | Node.js, TypeScript | Type-safe backend API with robust error handling and data validation |
+### [Insta Backend](https://github.com/Muhammad-Absar-ul-Haque/Insta-Backend) — Social Media API
+`NestJS` `TypeScript` `PostgreSQL` `Prisma` `Redis` `BullMQ` `Socket.IO`
+- Hybrid fan-out home feed: fan-out-on-write via BullMQ for normal users, merged at read time for high-follower accounts to avoid write amplification.
+- Real-time DMs, notifications and typing indicators scaled across multiple API instances with the Socket.IO Redis adapter.
+- JWT access tokens with rotating, hashed, revocable refresh tokens and per-device session revocation.
 
-> 👆 **Check out the pinned repositories below for complete source code and documentation**
+### [Inventory Management System](https://github.com/Muhammad-Absar-ul-Haque/Inventory-Management-Backend-Spring-boot) — Event-Driven Backend
+`Java 21` `Spring Boot 3` `Kafka` `PostgreSQL` `Redis` `WebSockets`
+- Order and Notification services decoupled with Apache Kafka.
+- Optimistic locking to prevent inventory race conditions; live order-status updates over WebSockets (STOMP).
+- Redis distributed cache and a custom JWT filter for Admin and Mobile clients.
 
----
+### [PrizeBond App](https://github.com/Muhammad-Absar-ul-Haque/prize-bond-backend-nodejs) — Backend API
+`NestJS` `TypeScript` `PostgreSQL` `Prisma`
+*Prize Bonds are Pakistan's government savings bond lottery.*
+- User bond portfolios, a bond-trading marketplace and automated prize-draw logic.
+- Admin/User RBAC with Passport.js JWT, class-validator DTOs and Swagger docs; Cloudinary, Firebase push notifications and Nodemailer integrations.
 
-### 🎓 Education & Certifications
-
-- **Bachelor's in Computer Science** — University of Karachi (2022–2025)
-- Programming with JavaScript — *Coursera*
-- Introduction to Frontend Development — *Coursera*
-- The Ultimate React Course — *Udemy*
-
----
-
-### 📫 Let's Connect
-
-I'm actively looking for **backend developer roles** where I can contribute to scalable, impactful projects.
-
-- 📍 Karachi, Pakistan
-- 💼 Open to remote & on-site opportunities
-- 💻 Active on GitHub with consistent contributions
-- 📧 Reach out via GitHub — I respond promptly
+### [EduConnect API](https://github.com/Muhammad-Absar-ul-Haque/educonnect-learning-platform-api-nodejs) — Learning Management System
+`Node.js` `Express.js` `MySQL` `Sequelize`
+- Modular REST API for users, courses, enrollments and blog posts, with pagination and soft deletes.
+- Complex Sequelize associations and migrations, JWT + RBAC, and interactive Swagger/OpenAPI docs.
 
 ---
 
-<p align="center">
-  <i>"Writing clean, maintainable code and delivering robust backend solutions — every single time."</i>
-</p>
+## Education & Certifications
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" />
+- **BS Computer Science**, University of Karachi (UBIT), Completed 2025
+- Programming with JavaScript (Coursera) · Introduction to Front-End Development (Coursera) · The Ultimate React Course (Udemy)
+
+---
+
+## Contact
+
+I'm looking for **Backend Engineer** roles with international teams, remote or with relocation. The best way to reach me is by [email](mailto:absar.haque2003@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muhammad-absar-320205267).
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="36" alt="NestJS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" alt="Spring" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" alt="Redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" alt="Docker" />
 </p>
