@@ -2,7 +2,7 @@
 
 **Backend Engineer** · Node.js · TypeScript · NestJS · Spring Boot
 
-📍 Karachi, Pakistan · 🌍 **Open to remote roles / relocation with visa sponsorship**
+📍 Karachi, Pakistan · 🌍 **Open to remote roles**
 
 [![Email](https://img.shields.io/badge/Email-absar.haque2003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:absar.haque2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-absar-320205267)
